@@ -1,6 +1,6 @@
 steps:
-    pip install -r module.txt
-    python tube.py
+> pip install -r module.txt
+> python tube.py
     
 • enter the youtube copied link
 • choose your resolution
